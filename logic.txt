@@ -1,0 +1,18 @@
+3 ERC 20 tokens 
+
+
+Token Alphamero - Can trade between Token Beta and Token Sigma 
+
+Token Betasimo - Can trade to and from Token Alpha
+
+Token Sigmalo - Can trade to and from Token Alpha
+
+Sigmalo||Betasimo <===> Alphamero
+
+token Alphamero should wrap Betasimo and Sigmalo. allowing the above interaction
+
+
+MUST BE IMPLEMENTED: 
+swap(address token_, uint amount)` and `function unswap(address token_, uint amount)`
+
+
