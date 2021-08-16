@@ -16,3 +16,6 @@ MUST BE IMPLEMENTED:
 swap(address token_, uint amount)` and `function unswap(address token_, uint amount)`
 
 
+
+to implement the above transactions I will use the Address of Sigmalo and Betasimo to filter for input and to
+implement the logic to swap between the two: "Sigmalo||Betasimo <===> Alphamero"
